@@ -28,4 +28,4 @@ C# · Go · TypeScript · JavaScript · SQL · Dart · Python
 
 ## Databases
 
-MongoDB · Cloud Firestore
+MongoDB · Cloud Firestore · MySQL · PostgreSQL
