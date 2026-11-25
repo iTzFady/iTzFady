@@ -8,7 +8,11 @@
 
 I’m a software engineer based in Alexandria, Egypt. I build web applications with React, Next.js, and Tailwind CSS, cross-platform apps with React Native and Flutter, and REST APIs with Node.js and Express.
 
-[**3D Portfolio**](https://portfolio-website-sage-kappa-78.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/faaady-samy/)
+[**Portfolio**](https://portfolio-website-sage-kappa-78.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/faaady-samy/)
+
+## Programming Languages
+
+C# · Go · TypeScript · JavaScript · SQL · Dart · Python
 
 ## Tech Stack
 
@@ -16,8 +20,8 @@ I’m a software engineer based in Alexandria, Egypt. I build web applications w
 
 | Area | Technologies |
 | --- | --- |
-| Web | JavaScript, React, Next.js, Tailwind CSS, Three.js |
-| Backend & Data | Node.js, Express, REST APIs, MongoDB, Firebase |
-| Mobile | React Native, Expo, Flutter, Dart |
+| Web | React, Next.js, Tailwind CSS, Three.js |
+| Backend & Data | Node.js, Express, ASP.NET, REST APIs, MongoDB, Firebase |
+| Mobile | React Native, Expo, Flutter |
 | Cloud & Systems | AWS EC2, RDS, IAM, CloudWatch, Linux system management |
 | Development Tools | Git and Docker. I used Docker on Tavra. |
