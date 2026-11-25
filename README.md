@@ -24,8 +24,5 @@ C# · Go · TypeScript · JavaScript · SQL · Dart · Python
 | Backend | Node.js, Express, ASP.NET, REST APIs, Firebase Authentication |
 | Mobile | React Native, Expo, Flutter |
 | Cloud & Systems | AWS EC2, RDS, IAM, CloudWatch, Linux system management |
-| Development Tools | Git and Docker. I used Docker on Tavra. |
-
-## Databases
-
-MongoDB · Cloud Firestore · MySQL · PostgreSQL
+| Development Tools | Git and Docker |
+| Databases | MongoDB, Cloud Firestore, MySQL, PostgreSQL |
