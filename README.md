@@ -21,7 +21,11 @@ C# · Go · TypeScript · JavaScript · SQL · Dart · Python
 | Area | Technologies |
 | --- | --- |
 | Web | React, Next.js, Tailwind CSS, Three.js |
-| Backend & Data | Node.js, Express, ASP.NET, REST APIs, MongoDB, Firebase |
+| Backend | Node.js, Express, ASP.NET, REST APIs, Firebase Authentication |
 | Mobile | React Native, Expo, Flutter |
 | Cloud & Systems | AWS EC2, RDS, IAM, CloudWatch, Linux system management |
 | Development Tools | Git and Docker. I used Docker on Tavra. |
+
+## Databases
+
+MongoDB · Cloud Firestore
